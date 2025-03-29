@@ -176,7 +176,7 @@
 		"request": "2.88.2",
 		"request-promise": "4.2.6",
 		"ssh2": "1.16.0",
-		"validator": "13.12.0",
+		"validator": "13.15.0",
 		"winreg": "1.2.5"
 	},
 	"devDependencies": {
@@ -190,7 +190,7 @@
 		"@types/lodash.foreach": "4.5.9",
 		"@types/lodash.trimstart": "4.5.9",
 		"@types/lodash.uniq": "4.5.9",
-		"@types/node": "22.13.10",
+		"@types/node": "22.13.14",
 		"@types/opn": "5.5.0",
 		"@types/request-promise": "4.1.51",
 		"@types/ssh2": "1.15.4",
