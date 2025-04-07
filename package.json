@@ -203,7 +203,7 @@
 		"winreg": "1.2.5"
 	},
 	"devDependencies": {
-		"@playform/build": "0.2.2",
+		"@playform/build": "0.2.3",
 		"@types/adm-zip": "0.5.7",
 		"@types/crc": "4.0.0",
 		"@types/extract-zip": "2.0.3",
